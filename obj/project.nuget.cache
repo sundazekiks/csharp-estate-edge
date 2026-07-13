@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "PStChsgJvOE=",
+  "dgSpecHash": "XR87+b6nXcU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ADMIN1\\Desktop\\C# Repos\\estate-edge\\estate-edge.csproj",
+  "projectFilePath": "/Users/travisabuton/Personal Files/projects/csharp-estate/csharp-estate-edge/estate-edge.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ADMIN1\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.9\\microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
-    "C:\\Users\\ADMIN1\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "/Users/travisabuton/.nuget/packages/microsoft.aspnetcore.openapi/10.0.9/microsoft.aspnetcore.openapi.10.0.9.nupkg.sha512",
+    "/Users/travisabuton/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'Microsoft.OpenApi' 2.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
-      "projectPath": "C:\\Users\\ADMIN1\\Desktop\\C# Repos\\estate-edge\\estate-edge.csproj",
+      "projectPath": "/Users/travisabuton/Personal Files/projects/csharp-estate/csharp-estate-edge/estate-edge.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\ADMIN1\\Desktop\\C# Repos\\estate-edge\\estate-edge.csproj",
+      "filePath": "/Users/travisabuton/Personal Files/projects/csharp-estate/csharp-estate-edge/estate-edge.csproj",
       "libraryId": "Microsoft.OpenApi",
       "targetGraphs": [
         "net10.0"
