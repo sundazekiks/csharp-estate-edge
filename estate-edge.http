@@ -1,0 +1,6 @@
+@estate_edge_HostAddress = http://localhost:5153
+
+GET {{estate_edge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

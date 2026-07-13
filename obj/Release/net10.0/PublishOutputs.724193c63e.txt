@@ -1,0 +1,9 @@
+C:\app\estate-edge.exe
+C:\app\appsettings.Development.json
+C:\app\appsettings.json
+C:\app\estate-edge.dll
+C:\app\estate-edge.deps.json
+C:\app\estate-edge.runtimeconfig.json
+C:\app\estate-edge.pdb
+C:\app\Microsoft.AspNetCore.OpenApi.dll
+C:\app\Microsoft.OpenApi.dll
